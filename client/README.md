@@ -1,8 +1,45 @@
-# React + Vite
+# Textura AI (Under Development)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Textura AI is an AI-powered application designed to generate images based on user-provided prompts. Built with modern web technologies, it offers a seamless and responsive user experience.
 
-Currently, two official plugins are available:
+## 🚀 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Framework:** Vite
+- **Library:** React
+- **Language:** JavaScript
+- **Styling:** TailwindCSS, PostCSS, Autoprefixer
+- **Routing:** React Router DOM
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Beexoul/Textura.git
+   cd textura-ai
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open the application in your browser:
+   ```
+   http://localhost:5173
+   ```
+
+## 💻 Usage
+- Enter a descriptive prompt in the input field.
+- Click the **Generate** button.
+- View and download the AI-generated image.
+
+
+## 🤝 Contribution
+Contributions are welcome! Please open an issue first to discuss what you would like to change.
+
+---
+**Textura AI** - Creating Art with AI-Powered Imagination ✨
+
+*Under Active Development 🚧*
